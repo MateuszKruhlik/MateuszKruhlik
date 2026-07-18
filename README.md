@@ -14,6 +14,8 @@ Product designer by profession. After hours I build the tools I wish existed, pr
 
 🧠 **[Omni Brain](https://github.com/MateuszKruhlik/omni-brain)** — local-first second brain as a git repo: specialized AI experts with clean contracts + RAG over books and video courses. Works in any AI IDE.
 
+🔊 **[Rabi Sound](https://github.com/MateuszKruhlik/rabi-sound)** — local-first browser generator for clean, royalty-free UI sound effects. Compose tone + noise layers, export production-ready WAV files and sound packs. Free & open source, built on Cuelume.
+
 #### Beyond the screen
 
 🖨️ I design and 3D-print enclosures (Bambu Lab X1C, ASA) — a product doesn't stop at the PCB.
